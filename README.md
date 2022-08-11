@@ -1,5 +1,5 @@
 ---
-topic: Java SE Hello World
+topic: Java SE Hello World-test
 languages:
   - java
 products:
